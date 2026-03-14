@@ -76,3 +76,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+# Tarea a Realizar: agregar funcion para traducir Braille a texto español (iteración 6)
